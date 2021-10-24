@@ -1,5 +1,8 @@
 # Landing_Page
+
 Fully responsive Landing page (freeCodeCamp third exercise)
+
+[Link to the site!](https://gonzalo-fuente.github.io/Landing_Page/)
 
 ![page preview](https://github.com/gonzalo-fuente/Landing_Page/blob/main/Landing%20Page.gif)
 
